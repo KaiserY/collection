@@ -1,5 +1,5 @@
 module.exports = {
-  base: 'collection',
+  base: '/collection/',
   title: 'KaiserY',
   description: '...'
 }
